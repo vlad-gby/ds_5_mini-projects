@@ -22,11 +22,11 @@ Here you will find a selection of projects showcasing my skills across various d
 * **Scenario:** Solved a logistics problem by determining the closest distribution warehouse for each retail store based on latitude and longitude.
 * **Skills Demonstrated:** Implementing the Haversine formula in a vectorized NumPy function, performing a `cross` merge to create all possible store-warehouse pairings, and using `.groupby().idxmin()` for efficient optimization.
 
-### 3. A/B Test Significance Analysis
+### 3. A/B Test Significance Analysis   [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/vlad-gby/ds_5_mini-projects/blob/main/03_AB-test/notebook.ipynb)
+
 
 * **Scenario:** Determined if a change in a website's button color resulted in a statistically significant increase in user conversion.
 * **Skills Demonstrated:** Implementing a permutation test from scratch in NumPy, calculating a p-value to measure statistical significance, and clearly interpreting the results to drive a business decision.
-* [**View the Notebook**](ab_test_analysis.ipynb)
 
 ### 4. Monte Carlo Simulation for Business Viability
 
