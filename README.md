@@ -16,11 +16,11 @@ Here you will find a selection of projects showcasing my skills across various d
 
 
 
-### 2. Geospatial Analysis: Logistics Optimization
+### 2. Geospatial Analysis: Logistics Optimization   [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/vlad-gby/ds_5_mini-projects/blob/main/02_geospacial_analysis/notebook.ipynb)
+
 
 * **Scenario:** Solved a logistics problem by determining the closest distribution warehouse for each retail store based on latitude and longitude.
 * **Skills Demonstrated:** Implementing the Haversine formula in a vectorized NumPy function, performing a `cross` merge to create all possible store-warehouse pairings, and using `.groupby().idxmin()` for efficient optimization.
-* [**View the Notebook**](geospatial_analysis.ipynb)
 
 ### 3. A/B Test Significance Analysis
 
