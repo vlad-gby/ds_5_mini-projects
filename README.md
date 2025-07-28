@@ -28,16 +28,16 @@ Here you will find a selection of projects showcasing my skills across various d
 * **Scenario:** Determined if a change in a website's button color resulted in a statistically significant increase in user conversion.
 * **Skills Demonstrated:** Implementing a permutation test from scratch in NumPy, calculating a p-value to measure statistical significance, and clearly interpreting the results to drive a business decision.
 
-### 4. Monte Carlo Simulation for Business Viability
+### 4. Monte Carlo Simulation for Business Viability   [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/vlad-gby/ds_5_mini-projects/blob/main/04_monte_carlo/notebook.ipynb)
+
 
 * **Scenario:** Built a Monte Carlo simulation to forecast the potential annual profit of a new pizza shop in Bergamo, modeling uncertainty in daily customers and costs.
 * **Skills Demonstrated:** Random data generation with NumPy, vectorized arithmetic for financial modeling, calculating key performance indicators (total profit, profitable days, best/worst days), and using `np.select` for performance categorization.
-* [**View the Notebook**](monte_carlo_simulation.ipynb)
 
-### 5. Machine Learning Pre-processing Pipeline
+### 5. Machine Learning Pre-processing Pipeline   [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/vlad-gby/ds_5_mini-projects/blob/main/05_image-processing/notebook.ipynb)
+
 
 * **Scenario:** Simulated a critical pre-processing pipeline for a computer vision model, preparing image metadata for analysis.
 * **Skills Demonstrated:** Handling complex, nested data structures (a Pandas Series of NumPy arrays), parsing string data to create image arrays of varying dimensions, and using `.apply()` with lambda functions to perform row-wise normalization.
-* [**View the Notebook**](image_processing_simulation.ipynb)
 
 Thank you for taking the time to review my work. I am always looking for new and exciting problems to solve.
