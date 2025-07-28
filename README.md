@@ -8,7 +8,7 @@ My approach is to build a clear, logical path from the initial synthetic data to
 
 Here you will find a selection of projects showcasing my skills across various domains, from financial analysis to geospatial logistics and statistical testing.
 
-### 1. Financial Time-Series Analysis  [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>]([https://colab.research.google.com/github/vlad-gby/data-analysis-portfolio/blob/main/financial_analysis.ipynb](https://colab.research.google.com/github/vlad-gby/ds_5_mini-projects/blob/main/01_fin_time-s_analysis/notebook.ipynb))
+### 1. Financial Time-Series Analysis  [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>]([https://colab.research.google.com/github/vlad-gby/data-analysis-portfolio/blob/main/financial_analysis.ipynb](https://colab.research.google.com/github/vlad-gby/ds_5_mini-projects/blob/main/01_fin_time-s_analysis/notebook.ipynb)
 
 * **Scenario:** Performed a quantitative analysis on daily stock price data to identify key financial metrics.
 * **Skills Demonstrated:** Time-series indexing, calculating daily returns with `.shift()`, computing rolling volatility with `.rolling().std()`, and using standard deviation to flag anomalous high-volume trading days.
