@@ -1,4 +1,4 @@
-# Data Analysis & Science Portfolio
+# 5 Synthetic Data Analysis Projects
 
 Welcome to my data analysis portfolio. My name is Vladyslav Hubanov, and this repository serves as a curated collection of my work, demonstrating my skills in transforming raw data. I used synthetic projects in this case
 
